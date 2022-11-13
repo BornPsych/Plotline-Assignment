@@ -1,0 +1,22 @@
+.header_main{
+    background-color: #FAFBFC;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    border-bottom:1px solid rgb(231, 231, 231);
+}
+.header_logo{
+    border-right:1px solid rgb(231, 231, 231);
+    width:60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header_right{
+    padding-left: 20px;
+}
+.header_right h3{
+    color:#091E42;
+    font-weight: 500;
+    font-size: 22px;
+}
